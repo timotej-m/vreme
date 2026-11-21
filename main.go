@@ -1,10 +1,11 @@
 package main
 
 import (
-	"5dn/vreme"
 	"context"
 	"log"
 	"os"
+
+	"github.com/timotej-m/vreme"
 
 	"github.com/urfave/cli/v3"
 )
