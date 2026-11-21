@@ -5,8 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/timotej-m/vreme"
-
+	"github.com/timotej-m/vreme/vreme"
 	"github.com/urfave/cli/v3"
 )
 
